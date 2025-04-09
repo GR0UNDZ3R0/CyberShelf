@@ -48,8 +48,9 @@ Whether you’re starting out or knee-deep in exploits, keep going. 💻🔥
 
 Here’s a friendly reminder of what it feels like when you try reading five cybersecurity books at once:
 <p align="center">
-<img src="resources/00-index/5-books-at-once.png" alt="reading five cybersecurity books at once" width="200" height="300" />
+<img src="resources/00-index/5-books-at-once.png" alt="reading five cybersecurity books at once" width="200" height="300" title="G0 LOUSY MEMES"/>
 </p>
+
 > *"Me: I’ll read one chapter before bed...*  
 > *Also me at 3 AM: ‘If I just buffer overflow the stack and execute shellcode…’"* 😵‍💻
 
