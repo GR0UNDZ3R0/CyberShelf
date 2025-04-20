@@ -8,7 +8,7 @@ Whether you're refining your report-writing process or just getting started, thi
 ## 📕 Featured Book #1: *Writing an effective penetration testing report*
 
 <p align="center">
-<img src="https://i.ibb.co/jkQwQdSQ/Screenshot-at-2025-04-11-21-12-25.png" alt="Writing an effective penetration testing report - Book Cover" width="200" height="300" title="Featured Book #1" />
+<img src="https://pentestmag.com/wp-content/uploads/2016/05/PenTestmagazine-378x535.jpg" alt="Writing an effective penetration testing report - Book Cover" width="200" height="300" title="Featured Book #1" />
 </p>
 
 - 📌 **Description**: Learn how to turn technical findings into impactful, professional reports. This guide walks you through structuring, writing, and delivering pentest reports that clients can actually use.
